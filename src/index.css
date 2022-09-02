@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* background-color: #000300; */
+  background:  #000300;
+  /* background: -webkit-linear-gradient(0deg, #474bff 0%, #1c1c80 100%);
+  background: linear-gradient(0deg, #474bff 0%, #1c1c80 100%); */
+}
+
+* {
+  font-family: 'Raleway', sans-serif;
+}
